@@ -1,5 +1,6 @@
 body {
-    background: #fff url(bg.png) center top/cover no-repeat fixed;
+    background:  url(bg.png) center top/cover no-repeat fixed;
     
     padding-top: 40px;
 }
+
