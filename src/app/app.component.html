@@ -2,11 +2,11 @@
 
 <div>
   <label for="weight">Weight</label>
-  <input id="weight" [(ngModel)]="weight" placeholder="in pounds">
+  <input type="number" id="weight" [(ngModel)]="weight" placeholder="in pounds" >
 </div>
 <div>
   <label for="height">Height</label>
-  <input id="height" [(ngModel)]="height" placeholder="in inches">
+  <input type="number" id="height" [(ngModel)]="height" placeholder="in inches" >
 </div>
 <div>
   <button class="btn" (click)="calcBMI()">Calculate BMI</button>
