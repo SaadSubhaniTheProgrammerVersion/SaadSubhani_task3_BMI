@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Holtwood+One+SC');
 div {
     margin: auto;
     width: 50%;
@@ -79,5 +80,21 @@ input{
     width: 175px;
     height:20px;
     box-shadow: 3px 2px 3px 1px rgb(150, 11, 11);
+    text-align: center;
+
+}
+h1{
+    font-family: "Holtwood One SC", serif;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    text-shadow: #c41414 5px 5px 5px;
+ 
+}
+.container{
+    width: 40%;
+    height: 500px;
+    border: 5px solid rgb(150, 11, 11,0.7);
+    border-radius: 24px;
 
 }
