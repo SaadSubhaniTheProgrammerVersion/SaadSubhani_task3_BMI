@@ -15,6 +15,9 @@ export class AppComponent {
 
 
   calcBMI(){
+    this.calculation();
+  }
+  calculation(){
     const kg = this.weight*0.453592;
     const meters= this.height*0.0254;
     this.result=kg / (meters * meters)

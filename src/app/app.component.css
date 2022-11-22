@@ -6,7 +6,9 @@ div {
 }
 
 h1 {
-    text-align: center
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 35px;
 }
 
 
@@ -72,4 +74,10 @@ h2 {
 
 input{
     margin-left: 20px;
+    border-radius: 20px;
+    border-color: #c41414;
+    width: 175px;
+    height:20px;
+    box-shadow: 3px 2px 3px 1px rgb(150, 11, 11);
+
 }
