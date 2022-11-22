@@ -1,0 +1,75 @@
+div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center
+}
+
+
+.btn {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background-color: #c41414;
+    padding: 10px 30px;
+    border: solid #cc1717 2px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1000ms;
+    transform: translateY(0);
+    margin-top: 25px;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+
+    transition: 1000ms;
+    padding: 10px 50px;
+    transform: translateY(-0px);
+    background-color: #fff;
+    color: #cc1717;
+    border: solid 2px #cc1717;
+}
+
+h3 {
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+    font-size: large;
+}
+
+label {
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+    font-size: large;
+}
+h2 {
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+    font-size: 25px;
+    color: #cc1717;
+    
+}
+
+input{
+    margin-left: 20px;
+}
