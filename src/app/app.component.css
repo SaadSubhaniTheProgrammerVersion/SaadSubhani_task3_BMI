@@ -24,7 +24,7 @@ h1 {
     border: solid #cc1717 2px;
     box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
     border-radius: 50px;
-    transition: 1000ms;
+    transition: 500ms;
     transform: translateY(0);
     margin-top: 25px;
     align-items: center;
